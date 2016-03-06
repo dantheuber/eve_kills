@@ -1,0 +1,43 @@
+{
+u'items':
+	[{u'typeID': 21898, u'flag': 5, u'qtyDropped': 1000, u'singleton': 0, u'qtyDestroyed': 0}, 
+	{u'typeID': 440, u'flag': 19, u'qtyDropped': 1, u'singleton': 0, u'qtyDestroyed': 0}, 	
+	{u'typeID': 21906, u'flag': 27, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 86}, 	
+	{u'typeID': 2889, u'flag': 28, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 1}, 	
+	{u'typeID': 519, u'flag': 12, u'qtyDropped': 1, u'singleton': 0, u'qtyDestroyed': 0}, 	
+	{u'typeID': 2605, u'flag': 14, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 1}, 
+	{u'typeID': 31740, u'flag': 92, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 1}, 
+	{u'typeID': 438, u'flag': 20, u'qtyDropped': 1, u'singleton': 0, u'qtyDestroyed': 0}, 
+	{u'typeID': 4025, u'flag': 22, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 1}, 
+	{u'typeID': 2048, u'flag': 13, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 1}, 
+	{u'typeID': 21924, u'flag': 5, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 1000}, 
+	{u'typeID': 4477, u'flag': 30, u'qtyDropped': 1, u'singleton': 0, u'qtyDestroyed': 0}, 
+	{u'typeID': 2889, u'flag': 27, u'qtyDropped': 1, u'singleton': 0, u'qtyDestroyed': 0}, 
+	{u'typeID': 21906, u'flag': 29, u'qtyDropped': 86, u'singleton': 0, u'qtyDestroyed': 0}, 
+	{u'typeID': 519, u'flag': 11, u'qtyDropped': 1, u'singleton': 0, u'qtyDestroyed': 0}, 
+	{u'typeID': 2464, u'flag': 5, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 1}, 
+	{u'typeID': 2464, u'flag': 5, u'qtyDropped': 2, u'singleton': 0, u'qtyDestroyed': 0}, 
+	{u'typeID': 21906, u'flag': 28, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 86}, 
+	{u'typeID': 21906, u'flag': 5, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 520}, 
+	{u'typeID': 21906, u'flag': 5, u'qtyDropped': 120, u'singleton': 0, u'qtyDestroyed': 0}, 
+	{u'typeID': 5439, u'flag': 21, u'qtyDropped': 0, u'singleton': 0, u'qtyDestroyed': 1}, 
+	{u'typeID': 2889, u'flag': 29, u'qtyDropped': 1, u'singleton': 0, u'qtyDestroyed': 0}, 
+	{u'typeID': 31728, u'flag': 93, u'qtyDropped': 0, u'singleton': 0, 	u'qtyDestroyed': 1}],
+	
+u'killTime': u'2016-03-06 00:31:46', 
+
+u'zkb': {u'locationID': 40334992, u'totalValue': 33109510.43, u'hash': u'383da370a6af26e8d0ee65aef391628b82cd5910', u'points': 12}, 
+
+u'attackers': 
+	[{u'corporationID': 98445447, u'factionID': 0, u'weaponTypeID': 17932, u'characterName': u'Dmitry Vega', u'factionName': u'', u'allianceID': 0, u'allianceName': u'', u'finalBlow': 0, u'securityStatus': -9.9, u'shipTypeID': 17932, u'corporationName': u"Don't ask me why...", u'characterID': 92045201, u'damageDone': 1994}, 
+	{u'corporationID': 98352009, u'factionID': 0, u'weaponTypeID': 2488, u'characterName': u'Totoro Achasse', u'factionName': u'', u'allianceID': 0, u'allianceName': u'', u'finalBlow': 0, u'securityStatus': -0.8, u'shipTypeID': 37456, u'corporationName': u'ZARD131 X3', u'characterID': 93584247, u'damageDone': 297}, 	
+	{u'corporationID': 98285152, u'factionID': 0, u'weaponTypeID': 3178, u'characterName': u'Coldai Kill', u'factionName': u'', u'allianceID': 0, u'allianceName': u'', u'finalBlow': 1, u'securityStatus': -9.3, u'shipTypeID': 17928, u'corporationName': u'Sovereign Shadow Syndicate', u'characterID': 95296935, u'damageDone': 89}, 
+	{u'corporationID': 98422052, u'factionID': 0, u'weaponTypeID': 11202, u'characterName': u'Tenshi Kissaki', u'factionName': u'', u'allianceID': 0, u'allianceName': u'', u'finalBlow': 0, u'securityStatus': -0.9, u'shipTypeID': 11202, u'corporationName': u"Coyote's Crusade", u'characterID': 95033587, u'damageDone': 13}], 
+	
+u'victim': {u'corporationID': 98413060, u'allianceID': 99003624, u'damageTaken': 2393, u'characterName': u'Till bradamar', u'factionName': u'', u'allianceName': u'Fortis Et Certus', u'factionID': 0, u'shipTypeID': 11400, u'corporationName': u'Daerie Inc.', u'characterID': 92224383}, 
+
+u'killID': 52435350, 
+
+u'position': {u'y': 354024114679.28, u'x': 2045544989173.6, u'z': 1609838078827.9}, 
+
+u'solarSystemID': 30005296, u'moonID': 0}
