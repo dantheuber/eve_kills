@@ -1,3 +1,9 @@
+# TODO: post to slack following info: 
+#   ship cost total
+#   primary corp/alliance involved
+#   total number involved in kill
+#   link to killboard
+
 import urllib2, json, gzip, csv
 from StringIO import StringIO
 
